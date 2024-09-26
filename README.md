@@ -1,42 +1,18 @@
-# Hi there, I'm Maniyar Sufiyan Ahmed 👋
-
-**AI-ML Enthusiast | Machine Learning Engineer | Web Developer**
-
+# 💫 About Me:
 I’m an AI Engineer skilled in creating AI solutions from start to finish using AWS SageMaker. I know Python, Machine Learning, Deep Learning, and SQL well. I also have good knowledge of AWS SageMaker’s tools and services. My focus is on using Generative AI and Large Language Models. I. I’m dedicated to building AI systems that are strong, can scale, and add real value to businesses.
----
 
-### 🔧 Technologies & Tools:
-- **Programming Languages**: Python (Proficient), C, C++, Java, HTML, CSS, JavaScript (Basic)
-- **Databases**: MySQL, SQL (Intermediate)
-- **ML Libraries & Frameworks**: Scikit-learn, TensorFlow, PyTorch, NLTK, Hugging Face, Feature engine, AutoML, MLFlow, Plotly, Scipy
-- **Cloud & Deployment**: AWS Sagemaker, Streamlit, GitHub Actions (CI/CD)
-- **Version Control**: Git, GitHub
-- **IDE & Tools**: Visual Studio Code, Jupyter Notebook
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maniyarsufiyanahmed/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@sufiyanahmed.aiml) 
 
-### 💼 Work Experience:
-- **Machine Learning Intern** - InternsTech (July 2023 – Aug 2023)
-  - Developed a real-time fraud detection system for e-commerce, mitigating financial losses.
-  - Automated SMS classification for spam detection, enhancing email security.
-  - Implemented GitHub Actions for CI/CD pipelines, achieving +90% accuracy.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sufiyan-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sufiyan-ai&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyan-ai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- **Web Development Intern** - Hasbasoft Technology Pvt Ltd. (Jan 2021 – Apr 2022)
-  - Completed 10+ front-end projects, including a portfolio and tic-tac-toe game.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sufiyan-ai&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-
-### 📜 Certifications:
-- **Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate**
-
----
-
-### 📫 How to reach me:
-- **LinkedIn**: [Maniyar Sufiyan Ahmed](https://www.linkedin.com/in/maniyarsufiyanahmed/)
-- **GitHub**: [sufiyan-ai](https://github.com/sufiyan-ai)
-- **Email**: sufiyanahmed.aiml@gmail.com
-
----
-
-Feel free to check out my repositories and projects!
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
