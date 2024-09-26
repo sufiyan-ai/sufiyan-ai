@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an AI Engineer skilled in creating AI solutions from start to finish using AWS SageMaker. I know Python, Machine Learning, Deep Learning, and SQL well. I also have good knowledge of AWS SageMaker’s tools and services. My focus is on using Generative AI and Large Language Models. I. I’m dedicated to building AI systems that are strong, can scale, and add real value to businesses.
+I’m an AI Engineer skilled in creating AI solutions from start to finish using AWS SageMaker. I know Python, Machine Learning, Deep Learning, and SQL well. I also have good knowledge of AWS SageMaker’s tools and services. My focus is on using Generative AI and Large Language Models. I’m dedicated to building AI systems that are strong, can scale, and add real value to businesses.
 
 
 ## 🌐 Socials:
