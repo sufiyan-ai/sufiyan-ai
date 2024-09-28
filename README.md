@@ -1,6 +1,9 @@
 # 💫 Hey 👋, I'm Maniyar Sufiyan Ahmed
 I’m an AI Engineer skilled in creating AI solutions from start to finish using AWS SageMaker. I know Python, Machine Learning, Deep Learning, and SQL well. I also have good knowledge of AWS SageMaker’s tools and services. My focus is on using Generative AI and Large Language Models. I’m dedicated to building AI systems that are strong, can scale, and add real value to businesses.
 
+<img align="center" alt="coding" width="375" height="250" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maniyarsufiyanahmed/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@sufiyanahmed.aiml) 
